@@ -1,0 +1,2 @@
+Main-Class: app.CrmLite
+Class-Path: 
