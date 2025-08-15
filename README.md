@@ -2,6 +2,9 @@
 
 **CRM Lite** is a lightweight Java desktop CRM (JavaFX + SQLite) for quick contact and follow-up management.
 
+## Screenshot
+![CRM Lite running](screenshots/screenshot.png)
+
 ## Features
 - Search by **Name / Company / Industry**
 - Store **email**, **phone**, **next follow-up**
