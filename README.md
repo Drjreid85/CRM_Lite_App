@@ -22,9 +22,6 @@ A short demo video shows the app running and core features.
 3) Log an interaction (Call/Email/Meeting).
 4) Point out the due/overdue row highlight.
 
-## Recording (Demo Video)
-**Watch:** [demo.mp4](media/demo.mp4)
-
 ## GIF Preview
 ![Demo](media/demo.gif)
 
