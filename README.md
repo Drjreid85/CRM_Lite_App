@@ -16,13 +16,17 @@
 
 A short demo video shows the app running and core features.
 
-**What to show (suggested, ~30–60s):**
+**What to show (suggested, ~1-2 mins):**
 1) Launch via `crm-lite` (or Desktop icon).
 2) Add a new customer with a follow-up date.
 3) Log an interaction (Call/Email/Meeting).
 4) Point out the due/overdue row highlight.
 
-**Watch the demo:** [demo.mp4](media/demo.mp4)
+## Recording (Demo Video)
+**Watch:** [demo.mp4](media/demo.mp4)
+
+## GIF Preview
+![Demo](media/demo.gif)
 
 ## Requirements
 - Java **17+** (tested with Java **24**)
